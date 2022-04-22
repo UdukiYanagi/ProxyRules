@@ -364,7 +364,8 @@ DOMAIN-SUFFIX,reuters.com,PROXY
 DOMAIN-SUFFIX,reutersmedia.net,PROXY
 # > Steam
 DOMAIN-SUFFIX,steamcommunity.com,PROXY
-DOMAIN-SUFFIX,steampowered.com,PROXY
+DOMAIN,steampowered.com,PROXY
+DOMAIN,api.steampowered.com,PROXY
 # > Telegram
 DOMAIN-SUFFIX,legra.ph,PROXY
 DOMAIN-SUFFIX,t.me,PROXY
